@@ -2,7 +2,7 @@
 
 (Works only with the Steam Version on Windows)
 
-You have two options:
+You have three options:
 
 1) **Run with _.exe files** (easy):
 
@@ -24,13 +24,19 @@ You have two options:
    
    ![image](https://github.com/Devil4ngle/Idle_Slayer_Script/assets/101042789/df50f05b-530e-4777-bfd3-5012adf77baf)
 
-    - Right-click the file `Idle Runner.au3` and click `Compile with Options`
+   - Right-click the file `Idle Runner.au3` and click `Compile with Options`
 
     ![image](https://github.com/Devil4ngle/Idle_Slayer_Script/assets/101042789/5dc44eb5-aa9a-435f-82fb-710526cc4795)
-   
+
     - In the menu click `Compile Script`.
-      
+
    It will generate exe files which should run without issue.
+
+3) **Run the AutoHotkey port**:
+
+    - Install [AutoHotkey v2](https://www.autohotkey.com/download/).
+    - Open the `Autohotkey` folder from this repository.
+    - Double-click `Idle Runner.ahk` to launch the re-written script or compile it with `Ahk2Exe` if you prefer an executable.
 
 # Settings
 
